@@ -1,0 +1,4 @@
+*.pptx diff=office
+*.docx diff=office
+*.xlsx diff=office
+
